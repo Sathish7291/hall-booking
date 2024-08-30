@@ -1,0 +1,16 @@
+{
+  "name": "hall-booking",
+  "version": "1.0.0",
+  "description": "Hall booking api using express js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "author": "sathish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
